@@ -216,7 +216,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  jekyll-theme-modernist
+  jekyll-theme-cayman
   minima (~> 2.0)
   tzinfo-data
 
